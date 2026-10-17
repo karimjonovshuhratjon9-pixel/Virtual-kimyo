@@ -1,0 +1,8 @@
+{
+  "name": "LABORATORYA — Virtual Kimyo Laboratoriyasi",
+  "description": "7–11-sinf o‘quvchilari va o‘qituvchilar uchun interaktiv virtual kimyo laboratoriyasi, Mendeleyev jadvali, 3D molekulalar va ta’lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
